@@ -117,7 +117,7 @@ or some related dos:
 2. [Different Ways to Use WPForms Repeater Fields](https://add-ons.org/different-ways-to-use-wpforms-repeater-fields/)
 
 ### Wrapping up
-In this article, we tried to give you a detailed guide on how you can allow users to add fields to your WordPress form. So don’t forget to install the [WPForms Repeater Fields by Rednumber Developer](https://1.envato.market/rQz7P5) plugin to make it easier than ever to create custom forms with repeater fields to place on your site. 
+In this article, we tried to give you a detailed guide on how you can allow users to add fields to your WordPress form. So don’t forget to install the [WPForms Repeater Fields by add-ons.org Developer](https://add-ons.org/plugin/wpforms-repeater-fields/) plugin to make it easier than ever to create custom forms with repeater fields to place on your site. 
 
 
 
