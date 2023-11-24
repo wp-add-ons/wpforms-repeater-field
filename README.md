@@ -1,4 +1,4 @@
-# wpforms repeater fields
+# WPForms Repeater Fields
 The repeater field allows you to create one or more sets of fields that can be repeated.
 
 **Table of contents:**
