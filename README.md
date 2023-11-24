@@ -1,19 +1,6 @@
 # WPForms Repeater Fields
 The repeater field allows you to create one or more sets of fields that can be repeated.
 
-**Table of contents:**
-
-What is a Repeater Field in WordPress?  
-Why you should build repeatable blocks to your forms?  
-How to Create a WPForm with Repeatable Fields?  
-Step 1: Select the Best WordPress Plugin  
-Step 2:  Install and Activate Plugin  
-Step 3: Construct a WPForm with Repeating Sections   
-Step 4: Customize and Configure Form Settings  
-Step 5: Publish your form  
-You can refer to this video demo  
-Wrapping up
-
 ## What is a Repeater Field in WordPress?
 
 WPForms repeater fields enable users to add multiple particular fields in a form by duplicating the existing fields. This allows users to submit multiple sets of data easily by clicking on the **“Add”** button option.
