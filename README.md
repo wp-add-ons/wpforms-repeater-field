@@ -1,4 +1,4 @@
-# wpforms-repeater-field
+# wpforms repeater fields
 The repeater field allows you to create one or more sets of fields that can be repeated.
 
 **Table of contents:**
@@ -33,13 +33,12 @@ With that said, let’s step through our tutorial on how to build a repeater fie
 ## How to Create a WPForm with Repeatable Fields?
 ### Step 1: Install and Activate Plugin 
 
-In this tutorial, we are using [WPForms Repeater Fields by Rednumber Developer](https://1.envato.market/rQz7P5) to build a repeater field in our forms.
+In this tutorial, we are using [WPForms Repeater Fields by add-on.org Developer]([https://1.envato.market/rQz7P5](https://add-ons.org/plugin/wpforms-repeater-fields/)) to build a repeater field in our forms.
 
 After downloading the plugin, it’ll be saved as ZIP files on your device.
 
 Installing WPForms is easy and similar to installing any other WordPress plugin. Now, go back to the WordPress dashboard and open **Plugins >> Add New -  Upload Plugin** and choose the ZIP files, then install and activate it.
 
-![Image](https://add-ons.org/wp-content/uploads/2023/08/image-156.png)
 ![Image](https://add-ons.org/wp-content/uploads/2023/08/image-156.png)
 
 ### Step 2: Construct a WPForm with Repeating Sections
