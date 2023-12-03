@@ -1,18 +1,5 @@
-# wpforms-repeater-field
+# WPForms Repeater Fields
 The repeater field allows you to create one or more sets of fields that can be repeated.
-
-**Table of contents:**
-
-What is a Repeater Field in WordPress?  
-Why you should build repeatable blocks to your forms?  
-How to Create a WPForm with Repeatable Fields?  
-Step 1: Select the Best WordPress Plugin  
-Step 2:  Install and Activate Plugin  
-Step 3: Construct a WPForm with Repeating Sections   
-Step 4: Customize and Configure Form Settings  
-Step 5: Publish your form  
-You can refer to this video demo  
-Wrapping up
 
 ## What is a Repeater Field in WordPress?
 
@@ -33,13 +20,12 @@ With that said, let’s step through our tutorial on how to build a repeater fie
 ## How to Create a WPForm with Repeatable Fields?
 ### Step 1: Install and Activate Plugin 
 
-In this tutorial, we are using [WPForms Repeater Fields by Rednumber Developer](https://1.envato.market/rQz7P5) to build a repeater field in our forms.
+In this tutorial, we are using [WPForms Repeater Fields by add-on.org Developer]([https://1.envato.market/rQz7P5](https://add-ons.org/plugin/wpforms-repeater-fields/)) to build a repeater field in our forms.
 
 After downloading the plugin, it’ll be saved as ZIP files on your device.
 
 Installing WPForms is easy and similar to installing any other WordPress plugin. Now, go back to the WordPress dashboard and open **Plugins >> Add New -  Upload Plugin** and choose the ZIP files, then install and activate it.
 
-![Image](https://add-ons.org/wp-content/uploads/2023/08/image-156.png)
 ![Image](https://add-ons.org/wp-content/uploads/2023/08/image-156.png)
 
 ### Step 2: Construct a WPForm with Repeating Sections
@@ -131,7 +117,7 @@ or some related dos:
 2. [Different Ways to Use WPForms Repeater Fields](https://add-ons.org/different-ways-to-use-wpforms-repeater-fields/)
 
 ### Wrapping up
-In this article, we tried to give you a detailed guide on how you can allow users to add fields to your WordPress form. So don’t forget to install the [WPForms Repeater Fields by Rednumber Developer](https://1.envato.market/rQz7P5) plugin to make it easier than ever to create custom forms with repeater fields to place on your site. 
+In this article, we tried to give you a detailed guide on how you can allow users to add fields to your WordPress form. So don’t forget to install the [WPForms Repeater Fields by add-ons.org Developer](https://add-ons.org/plugin/wpforms-repeater-fields/) plugin to make it easier than ever to create custom forms with repeater fields to place on your site. 
 
 
 
