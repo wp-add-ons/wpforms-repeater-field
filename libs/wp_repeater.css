@@ -1,0 +1,71 @@
+div.wpforms-container-full .wpforms-form .hidden {
+    display: none !important;
+}
+.elementor-field-type-repeater>label {
+	display: none !important;
+}
+
+.elementor-editor-active .elementor-field-type-repeater>label, .elementor-editor-active .elementor-field-type-repeater_start>label {
+    display: block !important;
+}
+.container-repeater-field, .elementor-field-repeater-end, .elementor-field-repeater-start,
+.repeater-field-header-title {
+	width: 100% !important;
+}
+.wpforms-form .wpforms-repeater-field-button-add {
+	background-color: #69727d !important;
+    border-radius: 103px 103px 103px 103px !important;
+    padding: 10px 20px 10px 20px !important;
+    color: #fff !important;
+}
+.wpforms-form .wpforms-repeater-field-button-add:hover {
+    box-shadow: 4px 4px 0 0 rgba(0,0,0,.35)!important;
+    color: #fff !important;
+}
+.wpforms-form .repeater-field-header {
+    display: flex !important;
+    width: 100% !important;
+}
+.wpforms-form .repeater-field-header ul {
+    padding: 0 !important;
+    margin: 0 !important;
+    list-style: none;
+}
+.wpforms-form .repeater-field-header ul li {
+    display:  inline-block !important;
+}
+.wpforms-form .repeater-field-header-acctions {
+    width: 150px !important;
+    text-align: right !important;
+}
+.wpforms-form .repeater-field-header-acctions li i{
+    font-size: 20px !important;
+    margin-left: 1px !important;
+}
+.wpforms-form .repeater-field-header-acctions li i:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+.wpforms-form .repeater-field-footer {
+    margin: 15px 0 !important;
+}
+.wpforms-form .repeater-content-show {
+    border-bottom: 1px solid #e7e7e7 !important;
+}
+.wpforms-form .repeater-field-item {
+    margin-bottom: 15px !important;
+}
+.wpforms-form .wpforms-field-repeater {
+    padding: 5px 15px !important;
+}
+.wpforms-repeater-field-medium {
+    max-width: 78% !important;
+}
+.wpforms-repeater-field-small {
+    max-width: 26% !important;
+}
+@media only screen and (max-width: 600px) {
+    .wpforms-repeater-field-medium,.wpforms-repeater-field-small {
+         max-width: 100% !important;
+    }
+}
